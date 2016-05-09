@@ -1,0 +1,5 @@
+m = Message{
+    Name: "Alice",
+    Body: "Hello",
+    Time: 1294706395881547000,
+}
